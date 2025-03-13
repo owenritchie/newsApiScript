@@ -1,0 +1,6 @@
+newsdataapi
+firebase-admin
+transformers
+torch
+pandas
+python-dotenv
